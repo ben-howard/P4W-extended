@@ -1,10 +1,9 @@
 # P4W-extended
 
-# Power BI Template file which displays task Labels
+# Extended Power BI Template file to display task Labels
 
-[](url
+
 ![PW4 Labels](https://user-images.githubusercontent.com/37085234/162455607-1fc245f2-e521-4859-92bb-ec3c5d7172b5.jpg)
-)
 
 ## Introduction
 
