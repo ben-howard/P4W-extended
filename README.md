@@ -3,7 +3,7 @@
 # Extended Power BI Template file to display task Labels
 
 
-![PW4 Labels](https://user-images.githubusercontent.com/37085234/162455607-1fc245f2-e521-4859-92bb-ec3c5d7172b5.jpg)
+![PW4 Labels](https://user-images.githubusercontent.com/37085234/162456762-a6455d25-7907-4bea-ac6a-4f559db3b943.jpg)
 
 ## Introduction
 
