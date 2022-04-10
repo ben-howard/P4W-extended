@@ -7,7 +7,7 @@
 
 ## Introduction
 
-This repository contains contains a modification to the standard Microsoft P4W Power BI template file which enables you to view task Labels. 
+This repository contains modification to the standard Microsoft P4W Power BI template to enable you to view task Labels. 
 
 The following files are included in this github
 
